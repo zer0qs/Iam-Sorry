@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Chào Thu, Anh có điều muốn nói. </br> Em Còn Giận Anh Lắm Phải Không!",
+  titleHeader: "Chào Thu, Anh có điều muốn nói. </br> Em Có yêu Anh Không!",
   descriptionHeader:
-    "Anh biết rằng trước giờ anh đã làm em tổn thương rất nhiều. Đôi khi anh vô tâm, sadj jasd jasjda jasd ạdas không biết quan tâm đến cảm xúc của em. Hãy trả lời một cách thật lòng nhé. Nếu cậu im lặng và rời đi thì tức là cậu đã Hết Dỗi.",
-  buttonYes: "Đã Hết Rồi",
-  buttonNo: "Chưa Còn Lâu",
-  titleModar: " Ok cậu.",
+  "Anh yêu em nhiều lắm, xa em một ngày mà anh cảm giác nó lâu như 24h. Nói chung là không còn từ nào để diễn tả tình yêu anh dành cho em <3. EM CÓ YÊU ANH KHÔNG?",
+  buttonYes: "Không Còn Lâu!",
+  buttonNo: "Có, Rất Yêu Ạ!",
+  titleModar: " Ok em yêu.",
   descriptionModar:
-    "Cảm ơn cậu đã Hết Dỗi Nhé. </br> Tớ Không Trêu Thế Nữa. </br> Chúc Cậu Sáng Làm Việc Vui Vẻ Nha.</br> haha <3",
+    "Cảm ơn em nhé. </br> Anh sẽ hứa sẽ không làm em giận nữa. </br> Nhưng mà hên sui :((.</br> haha <3",
 };
