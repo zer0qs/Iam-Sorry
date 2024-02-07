@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "Chào Thu, Anh có điều muốn nói. </br> Em Có yêu Anh Không!",
   descriptionHeader:
-  "Anh yêu em nhiều lắm, xa em một ngày mà anh cảm giác nó lâu như 24h. Nói chung là không còn từ nào để diễn tả tình yêu anh dành cho em <3. EM CÓ YÊU ANH KHÔNG?",
+  "Anh yêu em nhiều lắm, xa em một ngày mà anh cảm giác nó lâu như 24h. Nói chung là không còn từ nào để diễn tả tình yêu anh dành cho em <3.",
   buttonYes: "Có, Rất Yêu Ạ!",
   buttonNo: "Không Còn Lâu!",
   titleModar: " Ok em yêu.",
